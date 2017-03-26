@@ -1,0 +1,22 @@
+{
+  "name": "value-holder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/value-holder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/value-holder/issues"
+  },
+  "homepage": "https://github.com/stierma1/value-holder#readme",
+  "dependencies": {
+    "pid-async-class": "^1.1.1"
+  }
+}
